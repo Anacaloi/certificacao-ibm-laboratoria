@@ -7,6 +7,7 @@ Numa conversa entre amigos surge a questão: qual país da America Latina foi o 
 
 #### A Conclusão:
 Observando o gráfico abaixo, podemos fazer algumas conclusões. México se apresenta como o pais com maior diferença entre mortes reportadas por covid e o excesso de mortes calculadas. Já no Chile é possível observar como os números de mortes, assim como a diferença entre as mortes reportadas, foram os mais baixos entre os países analisados. Por fim, conseguimos concluir que o país com maior número de mortes foi o Peru.
+
 ![Comparação entre os Países](https://github.com/Anacaloi/p1-laboratoria-covid/blob/main/img/comparacao-paises.png)
 ![Gráfico México](https://github.com/Anacaloi/p1-laboratoria-covid/blob/main/img/mexico.png)
 ![Gráfico Chile](https://github.com/Anacaloi/p1-laboratoria-covid/blob/main/img/chile.png)
