@@ -12,6 +12,6 @@ Consultas SQL e vizualizações no power BI
 ![Dashboard Screenshot](https://github.com/Anacaloi/certificacao-ibm-laboratoria/blob/main/p4-turismo/img/capa-dash.svg)
 
 
- - [Link do Dashboard no Power BI]()
+ - [Link do Dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiMjYwYTEyMzYtZjBkNC00Y2M4LTk1OGYtMjZlYjQ1YTdjY2ZmIiwidCI6Ijc4MjkyODFjLTE2MWItNDcyZi04NzFkLWQyNzY2NjhlYWUwZSJ9&pageName=ReportSection)
  - [Apresentação Loom]()
  
