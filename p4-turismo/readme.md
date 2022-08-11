@@ -5,9 +5,7 @@ Neste projetos foram analisados dados históricos de uma rede hoteleira. Trabalh
 
 
 ## Aprendizados
-
-O que você aprendeu construindo esse projeto? Quais desafios você enfrentou e como você superou-os?
-
+Consultas SQL e vizualizações no power BI
 
 ## Visualização
 
