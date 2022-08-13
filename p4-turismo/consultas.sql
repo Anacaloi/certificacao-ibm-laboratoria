@@ -337,3 +337,4 @@ CREATE OR REPLACE TABLE `projeto-4-ana-caloi.hotel_bookings.20-2_hipotese5-2`
   adr_category, hotel
   FROM `projeto-4-ana-caloi.hotel_bookings.19-1_adr_category`
   GROUP BY adr_category, hotel
+ 
