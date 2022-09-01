@@ -1,4 +1,4 @@
-# Segmenta a idade
+## Segmenta a idade
 CREATE OR REPLACE TABLE `projeto-6-funcionarios.dataset.2-0-intervalo_idades`
 AS 
 SELECT *,
@@ -9,6 +9,6 @@ SELECT *,
     ELSE '4. Mais de 50 anos' 
     END AS range_age
 FROM `projeto-6-funcionarios.dataset.1-0-satisfacao_funcionarios` 
-# Segmenta a distância do trabalho
-# Segmenta a  renda mensal
-# Segmenta o tempo de companhia
+## Segmenta a distância do trabalho
+##  Segmenta a  renda mensal
+## Segmenta o tempo de companhia
