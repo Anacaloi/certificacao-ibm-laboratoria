@@ -6,6 +6,8 @@ Neste projetos foram analisados dados históricos de uma empresa de telecomunica
 
 ## Aprendizados
 Consultas SQL e vizualizações no power BI
+Análise de riscos
+
 
 ## Visualização
 
