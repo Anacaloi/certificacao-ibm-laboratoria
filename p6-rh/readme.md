@@ -15,7 +15,7 @@ Em construção
 
 
  - [Link da Base de Dados](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
- - Outras análises tusadas como base:
+ - Outras análises usadas como base:
     - [Attrition in an Organization || Why Workers Quit?](https://www.kaggle.com/code/janiobachmann/attrition-in-an-organization-why-workers-quit)
     - [Outlier!!! The Silent Killer](https://www.kaggle.com/code/nareshbhat/outlier-the-silent-killer#notebook-container)
  
