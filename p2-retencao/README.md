@@ -13,4 +13,4 @@
 
  - [Link da Planilha](https://docs.google.com/spreadsheets/d/1R-LdgmMBR-uxU_TPeiJOhOIopGIqhcPsAo9NYziTSKg/edit?usp=sharing)
 
- - [Link da Base de Dados](https://www.kaggle.com/datasets/datacertlaboratoria/projeto-3-segmentao-de-clientes-no-ecommerce)
+ - [Link da Base de Dados](https://www.kaggle.com/code/datacertlaboratoria/guia-de-resolu-o-projeto-2)
