@@ -1,0 +1,18 @@
+
+# Projeto 3 - Segmentação de Clientes no Comércio Eletrônico
+
+Neste projetos foram analisados dados históricos de uma rede hoteleira. Trabalho desenvolvido em Julho de 2022 durante a Certificação em Análise de Dados - IBM|Laboratória
+
+
+## Aprendizados
+- Segmentação RFM
+
+
+## Visualização
+
+![Dashboard Screenshot]()
+
+
+ - [Link do Dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiMjYwYTEyMzYtZjBkNC00Y2M4LTk1OGYtMjZlYjQ1YTdjY2ZmIiwidCI6Ijc4MjkyODFjLTE2MWItNDcyZi04NzFkLWQyNzY2NjhlYWUwZSJ9&pageName=ReportSection)
+ - [Link da Base de Dados](https://www.kaggle.com/datasets/datacertlaboratoria/projeto-3-segmentao-de-clientes-no-ecommerce)
+ 

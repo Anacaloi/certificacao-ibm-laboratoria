@@ -22,4 +22,4 @@ Em contraponto, no Peru notamos um segundo pico de mortes ainda maior em 2021 em
 
 ![Gráfico Peru](https://github.com/Anacaloi/certificacao-ibm-laboratoria/blob/main/p1-covid/img/peru.png)
 
-<a href="https://docs.google.com/spreadsheets/d/12otWRGbmXMpnULyK8PY9IVHzQIV-7SoKBIuZGF7Y8Ro/edit?usp=sharing">Link da planilha completa</a>
+ - [Link da Planilha](https://docs.google.com/spreadsheets/d/12otWRGbmXMpnULyK8PY9IVHzQIV-7SoKBIuZGF7Y8Ro/edit?usp=sharing)
