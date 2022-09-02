@@ -10,9 +10,6 @@ Neste projetos foram analisados dados históricos de uma rede hoteleira. Trabalh
 
 ## Visualização
 
-![Dashboard Screenshot]()
 
-
- - [Link do Dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiMjYwYTEyMzYtZjBkNC00Y2M4LTk1OGYtMjZlYjQ1YTdjY2ZmIiwidCI6Ijc4MjkyODFjLTE2MWItNDcyZi04NzFkLWQyNzY2NjhlYWUwZSJ9&pageName=ReportSection)
  - [Link da Base de Dados](https://www.kaggle.com/datasets/datacertlaboratoria/projeto-3-segmentao-de-clientes-no-ecommerce)
  

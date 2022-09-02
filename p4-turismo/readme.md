@@ -5,7 +5,10 @@ Neste projetos foram analisados dados históricos de uma rede hoteleira. Trabalh
 
 
 ## Aprendizados
-Consultas SQL e vizualizações no power BI
+✔️ Utilizar Google BigQuery para processamento de dados;
+✔️ Selecionar e filtrar dados usando consultas SQL;
+✔️ Gerar visualizações utilizando Power BI;
+✔️ Tomar decisões de negócios com base em dados.
 
 ## Visualização
 
