@@ -14,6 +14,6 @@ Neste projetos foram analisados dados de um E-Commerce fictício o UK Merch. Tra
 
 
  - [Link da Planilha de Cálculo](https://docs.google.com/spreadsheets/d/1FKDs_XkMGF9PdR9aHkH6q_9HsjluZZkUNNhmq8VHekM/edit?usp=sharing)
-  - [Link da Base de Dados](https://www.kaggle.com/datasets/datacertlaboratoria/projeto-3-segmentao-de-clientes-no-ecommerce)
- 
+ - [Link da Base de Dados](https://www.kaggle.com/datasets/datacertlaboratoria/projeto-3-segmentao-de-clientes-no-ecommerce)
+ - [Link do Dashboard](https://datastudio.google.com/reporting/fd6cab1a-408a-43af-a379-7174e9eec49f)
 
