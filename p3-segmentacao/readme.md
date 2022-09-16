@@ -1,12 +1,14 @@
 
 # Projeto 3 - Segmentação de Clientes no Comércio Eletrônico
 
-Neste projetos foram analisados dados históricos de uma rede hoteleira. Trabalho desenvolvido em Julho de 2022 durante a Certificação em Análise de Dados - IBM|Laboratória
+Neste projetos foram analisados dados de um E-Commerce fictício o UK Merch. Trabalho desenvolvido em Maio de 2022 durante a Certificação em Análise de Dados - IBM|Laboratória
 
 
 ## Aprendizados
-- Segmentação RFM
-
+- Segmentação de clientes no modelo RFM;
+- Pré-processamento e Limpeza de Dados;
+- Análise de Coortes;
+- Visualização de Dados.
 
 ## Visualização
 
