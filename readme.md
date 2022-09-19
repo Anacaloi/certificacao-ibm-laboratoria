@@ -23,7 +23,7 @@ Certificação oferecida pela IBM e Laboratória. Tive a oportunidade de trabalh
 Em uma reunião o Diretor de Marketing de uma empresa Saas propôs triplicar o investimento para aquisição de usuários em relação ao ano passado alegando que a empresa conta com o dobro de usuários. Ele afirma que a empresa atingiu o PMF ou Product Market Fit e agora é hora de expandir o negócio. Foi decidiso, então, fazer a análise dos dados históricos da empresa para inferir se o OMF realmente foi atingido. Com base nisso foi determinado se o investimento será direcionado ao marketing ou a melhoria do produto para que os clientes sejam fidelizados.
 
 #### Principais Objetivos
-- Entendendo o conceito de ajuste do mercado de produtos;
+- Entender o conceito de ajuste do mercado de produtos;
 - Organizar os dados em tabelas;
 - Seleção e filtragem de dados através de consultas;
 - Manipular dados em planilhas;
