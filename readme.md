@@ -4,7 +4,8 @@
 Certificação oferecida pela IBM e Laboratória. Tive a oportunidade de trabalhar em cases de BI como a segmentação RFM de clientes de um e-commerce e diagnosticar o impacto econômico dos cancelamentos de reservas numa rede de hotéis. A primeira etapa de cada projeto consistiu  no tratamento dos dados brutos, foram também identificadas e estudadas as métricas pertinentes ao tipo de negócio e então geradas visualizações e utilizadas técnicas de data storytelling para responder às perguntas de negócio por meio da análise dos dados.
 
 
-## Projeto 7 - 
+## Projeto 7 - CitiBike
+De acordo 
  - Link do Repositório: Em Breve!
 
 ## Projeto 6 - Satisfação de Funcionários
@@ -14,6 +15,7 @@ Certificação oferecida pela IBM e Laboratória. Tive a oportunidade de trabalh
  - [Link do Repositório](https://github.com/Anacaloi/certificacao-ibm-laboratoria/tree/main/p5-telecomunicacoes)
 
 ## Projeto 4 - Cancelamento de Hotéis
+Neste projeto, assumi o papel de Analista de Dados de uma rede de hotéis.
 #### Principais Objetivos
 - Utilizar SQL para tratar e filtrar dados;
 - Gerar visualizações com Power BI;
