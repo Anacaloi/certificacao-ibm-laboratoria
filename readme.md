@@ -14,6 +14,15 @@ Certificação oferecida pela IBM e Laboratória. Tive a oportunidade de trabalh
  - [Link do Repositório](https://github.com/Anacaloi/certificacao-ibm-laboratoria/tree/main/p5-telecomunicacoes)
 
 ## Projeto 4 - Cancelamento de Hotéis
+#### Principais Objetivos
+- Utilizar SQL para tratar e filtrar dados;
+- Gerar visualizações com Power BI;
+- Testar as Hipóteses:
+  - 1 As reservas feitas com mais antecedência correm maior risco de cancelamento;
+  - 2 As reservas que incluem crianças têm menor risco;
+  - 3 Os usuários que fizeram alguma alteração em sua reserva têm menor risco;
+  - 4 Quando o usuário faz uma solicitação especial o risco é menor;
+  - 5 As reservas que possuem um diária mais baixa o risco é menor.
  - [Link do Repositório](https://github.com/Anacaloi/certificacao-ibm-laboratoria/tree/main/p4-turismo)
 
 ## Projeto 3 - Segmentação dos Clientes do Comércio Eletrônico
