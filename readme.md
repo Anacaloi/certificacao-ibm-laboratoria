@@ -20,7 +20,8 @@ Certificação oferecida pela IBM e Laboratória. Tive a oportunidade de trabalh
  - [Link do Repositório](https://github.com/Anacaloi/certificacao-ibm-laboratoria/tree/main/p3-segmentacao)
 
 ## Projeto 2 - Retenção da Partida Tecnológica
-Em uma conversa um grupo de amigos inicia a discussão: "Qual país da America Latina foi o mais afetado pela pandemia de Covid 19?".  
+Em uma reunião o Diretor de Marketing de uma empresa Saas propôs triplicar o investimento para aquisição de usuários em relação ao ano passado alegando que a empresa conta com o dobro de usuários. Ele afirma que a empresa atingiu o PMF ou Product Market Fit e agora é hora de expandir o negócio. Foi decidiso, então, fazer a análise dos dados históricos da empresa para inferir se o OMF realmente foi atingido. Com base nisso foi determinado se o investimento será direcionado ao marketing ou a melhoria do produto para que os clientes sejam fidelizados.
+
 #### Principais Objetivos
 - Entendendo o conceito de ajuste do mercado de produtos;
 - Organizar os dados em tabelas;
@@ -28,16 +29,16 @@ Em uma conversa um grupo de amigos inicia a discussão: "Qual país da America L
 - Manipular dados em planilhas;
 - Realizar uma análise de coorte;
 - Tomar decisões comerciais baseadas em dados.
-[Link do Repositório](https://github.com/Anacaloi/certificacao-ibm-laboratoria/tree/main/p2-retencao)
+- [Link do Repositório](https://github.com/Anacaloi/certificacao-ibm-laboratoria/tree/main/p2-retencao)
 
 ## Projeto 1 - Excesso de Mortes por Covid 19
-Em uma conversa um grupo de amigos inicia a discussão: "Qual país da America Latina foi o mais afetado pela pandemia de Covid 19?". 
+Em uma conversa um grupo de amigos inicia a discussão: "Qual país da America Latina foi o mais afetado pela pandemia de Covid 19?". Como as populações dos países possuem diferenças significativas, foi decidido determinar o número de mortes por 100 mil habitantes. Também foi considerada a probabilidade das mortes por covid terem sido subreportadas então foi calculada a média de mortes nos anos anteriores a pandemia e determinado então o excesso de mortes. 
 #### Principais Objetivos
 - Manipular dados em planilhas;
 - Organizar os dados em tabelas;
 - Organizar e comunicar as descobertas;
 - Visualizar dados em planilhas.
-[Link do Repositório](https://github.com/Anacaloi/certificacao-ibm-laboratoria/tree/main/p1-covid)
+- [Link do Repositório](https://github.com/Anacaloi/certificacao-ibm-laboratoria/tree/main/p1-covid)
 
 
 
