@@ -17,6 +17,15 @@ Certificação oferecida pela IBM e Laboratória. Tive a oportunidade de trabalh
  - [Link do Repositório](https://github.com/Anacaloi/certificacao-ibm-laboratoria/tree/main/p4-turismo)
 
 ## Projeto 3 - Segmentação dos Clientes do Comércio Eletrônico
+Como Analista de Dados de uma consultoria hipotética, recebi o desafio de apoiar um cliente administrador de um E-commerce. O UK Merch é uma empresa de cerca de um ano e se dedica à venda de vestuário no atacado para empresas menores que abastecem seu estoque com eles. A sede se encontra no Reino Unido mas eles expandiram sua atividade para clientes estrangeiros. Durante a reunião, a CEO e o Gerente Administrativo apresentam as seguintes situações: "Embora novos clientes tenham começado a chegar, não temos certeza se foi a decisão certa", disse a CEO. "Isso tornou nosso dia a dia mais complexo. Não temos certeza de onde vêm nossos melhores clientes, não temos sido muito rigorosos na coleta de dados e não sabemos como focar o trabalho de nossa equipe".
+Fica claro que a empresa precisa conhecer melhor os clientes para tomar decisões mais acertadas e focar a estratégia de vendas nos clientes certos. para isso se faz necessário medir a saude do negócio. Para isso, foi necessário construir um dashboard que mostre as principais métricas de negócios e segmentar seus clientes para tomar decisões estratégicas entendendo o público-alvo segundo a Lei de Pareto que diz que 80% dos lucros vêm de 20% do esforço. Para isso foi utilizada a Segmentação RFM (baseada em recência, frequência e montante).
+
+#### Principais Objetivos
+- Fazer a limpeza dos dados através de planilhas;
+- Seleção e filtragem de dados através de consultas;
+- Manipular dados em planilhas;
+- Realizar uma análise de coorte;
+- Segmentar clientes usando o modelo RFM.
  - [Link do Repositório](https://github.com/Anacaloi/certificacao-ibm-laboratoria/tree/main/p3-segmentacao)
 
 ## Projeto 2 - Retenção da Partida Tecnológica
