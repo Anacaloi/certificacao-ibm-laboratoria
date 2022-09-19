@@ -20,10 +20,24 @@ Certificação oferecida pela IBM e Laboratória. Tive a oportunidade de trabalh
  - [Link do Repositório](https://github.com/Anacaloi/certificacao-ibm-laboratoria/tree/main/p3-segmentacao)
 
 ## Projeto 2 - Retenção da Partida Tecnológica
- - [Link do Repositório](https://github.com/Anacaloi/certificacao-ibm-laboratoria/tree/main/p2-retencao)
+Em uma conversa um grupo de amigos inicia a discussão: "Qual país da America Latina foi o mais afetado pela pandemia de Covid 19?".  
+#### Principais Objetivos
+- Entendendo o conceito de ajuste do mercado de produtos;
+- Organizar os dados em tabelas;
+- Seleção e filtragem de dados através de consultas;
+- Manipular dados em planilhas;
+- Realizar uma análise de coorte;
+- Tomar decisões comerciais baseadas em dados.
+[Link do Repositório](https://github.com/Anacaloi/certificacao-ibm-laboratoria/tree/main/p2-retencao)
 
 ## Projeto 1 - Excesso de Mortes por Covid 19
- - [Link do Repositório](https://github.com/Anacaloi/certificacao-ibm-laboratoria/tree/main/p1-covid)
+Em uma conversa um grupo de amigos inicia a discussão: "Qual país da America Latina foi o mais afetado pela pandemia de Covid 19?". 
+#### Principais Objetivos
+- Manipular dados em planilhas;
+- Organizar os dados em tabelas;
+- Organizar e comunicar as descobertas;
+- Visualizar dados em planilhas.
+[Link do Repositório](https://github.com/Anacaloi/certificacao-ibm-laboratoria/tree/main/p1-covid)
 
 
 
