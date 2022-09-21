@@ -5,10 +5,23 @@ Certificação oferecida pela IBM e Laboratória. Tive a oportunidade de trabalh
 
 
 ## Projeto 7 - CitiBike
-De acordo 
+Análise exploratória dos dados de viagens e rotas da empresa CitiBike.
  - Link do Repositório: Em Breve!
 
 ## Projeto 6 - Satisfação de Funcionários
+Neste projeto decidi trabalhar com a base de dados fictícia dos funcionários da IBM. Elaborei uma análise descritiva caracterizando os funcionários e diagnosticando a satisfação com o trabalho, ambiente e relacionamentos. Utilizei métricas como ESI (Employee Satisfaction Index) e eNPS (Employee Net Promoter Score) para complementar minha análise.
+#### Principais Objetivos
+- Estruturar uma analise do zero:
+  - 1 Fazendo as perguntas de negócios para entender os objetivos e avaliar a situação atual;
+  - 2 Entendendo a base e o que os registros significam;
+  - 3 Fazendo a limpeza e preparação dos dados;
+  - 4 Análise dos dados de acordo com as métricas escolhidas;
+  - 5 Comunicar as descobertas através de um Dashboard no Power Bi.
+ - Diagnosticar a satisfação dos funcionários;
+ - Aplicar as métricas ESI e eNPS para 
+
+- Gerar visualizações com Power BI;
+
  - [Link do Repositório](https://github.com/Anacaloi/certificacao-ibm-laboratoria/tree/main/p6-rh)
 
 ## Projeto 5 - Empresa de Telecomunicações
