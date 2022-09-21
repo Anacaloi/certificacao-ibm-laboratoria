@@ -1,7 +1,9 @@
 
 # Certificação em Análise de Dados - IBM & Laboratória 
 
-Certificação oferecida pela IBM e Laboratória. Tive a oportunidade de trabalhar em cases de BI como a segmentação RFM de clientes de um e-commerce e diagnosticar o impacto econômico dos cancelamentos de reservas numa rede de hotéis. A primeira etapa de cada projeto consistiu  no tratamento dos dados brutos, foram também identificadas e estudadas as métricas pertinentes ao tipo de negócio e então geradas visualizações e utilizadas técnicas de data storytelling para responder às perguntas de negócio por meio da análise dos dados.
+Certificação oferecida pela IBM e Laboratória. Este programa de aprendizado baseado em projetos me permitiu desenvolver habilidades como: conhecimento de SQL e Google Big Query, colaboração, comunicação, pensamento crítico, visualização de dados com Power BI e Google DataStudio, resolução de problemas, entre outras. Tive a oportunidade de trabalhar em cases de BI como a segmentação RFM de clientes de um e-commerce e diagnosticar o impacto econômico dos cancelamentos de reservas numa rede de hotéis. A primeira etapa de cada projeto consistiu  no tratamento dos dados brutos, foram também identificadas e estudadas as métricas pertinentes ao tipo de negócio e então geradas visualizações e utilizadas técnicas de data storytelling para responder às perguntas de negócio por meio da análise dos dados.
+<br>[Link da credencial](https://www.credly.com/badges/8bb788d9-06ee-4bd7-992d-a7d5caddaa9a)
+
 
 
 ## Projeto 7 - CitiBike
@@ -28,7 +30,7 @@ Neste projeto decidi trabalhar com a base de dados fictícia dos funcionários d
  - [Link do Repositório](https://github.com/Anacaloi/certificacao-ibm-laboratoria/tree/main/p5-telecomunicacoes)
 
 ## Projeto 4 - Cancelamento de Hotéis
-Neste projeto, assumi o papel de Analista de Dados de uma rede de hotéis. Numa reunião foram observadas duas situações problemas: o pagamento à empresa de marketing é feito pelo número de reservas feitas e não pelo número de reservas concretizadas. E também existem muitos cancelamentos com menos de 3 dias de antecedência. 
+Neste projeto, assumi o papel de Analista de Dados de uma rede de hotéis. Numa reunião foram observadas duas situações problemas: o pagamento à empresa de marketing é feito pelo número de reservas feitas e não pelo número de reservas concretizadas. E também existem muitos cancelamentos com menos de 3 dias de antecedência. Foram levantadas então perguntas como quais reservas estão sendo canceladas e qual o impacto dos cancelamentos.
 #### Principais Objetivos
 - Utilizar SQL para tratar e filtrar dados;
 - Gerar visualizações com Power BI;
