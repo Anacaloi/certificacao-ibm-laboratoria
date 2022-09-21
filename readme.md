@@ -28,7 +28,7 @@ Neste projeto decidi trabalhar com a base de dados fictícia dos funcionários d
  - [Link do Repositório](https://github.com/Anacaloi/certificacao-ibm-laboratoria/tree/main/p5-telecomunicacoes)
 
 ## Projeto 4 - Cancelamento de Hotéis
-Neste projeto, assumi o papel de Analista de Dados de uma rede de hotéis.
+Neste projeto, assumi o papel de Analista de Dados de uma rede de hotéis. Numa reunião foram observadas duas situações problemas: o pagamento à empresa de marketing é feito pelo número de reservas feitas e não pelo número de reservas concretizadas. E também existem muitos cancelamentos com menos de 3 dias de antecedência. 
 #### Principais Objetivos
 - Utilizar SQL para tratar e filtrar dados;
 - Gerar visualizações com Power BI;
