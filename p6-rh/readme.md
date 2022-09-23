@@ -1,12 +1,21 @@
 
 # Projeto 6 - Análise de Satisfação dos Funcionários
 
-Neste projetos foram analisados dados históricos de uma empresa de telecomunicações. Trabalho Final da Certificação em Análise de Dados - IBM|Laboratória em desenvolvimento em Setempro de 2022.
+Neste projeto decidi trabalhar com a base de dados fictícia dos funcionários da IBM. Elaborei uma análise descritiva caracterizando os funcionários e diagnosticando a satisfação com o trabalho, ambiente e relacionamentos. Utilizei métricas como ESI (Employee Satisfaction Index) e eNPS (Employee Net Promoter Score) para complementar minha análise.
 
 ## Objetivos
-Consultas SQL e vizualizações no power BI
-Análise de satisfação e outras métricas de RH
+- Estruturar uma analise do zero:
+  - 1 Fazendo as perguntas de negócios para entender os objetivos e avaliar a situação atual;
+  - 2 Entendendo a base e o que os registros significam;
+  - 3 Fazendo a limpeza e preparação dos dados;
+  - 4 Análise dos dados de acordo com as métricas escolhidas;
+  - 5 Comunicar as descobertas através de um Dashboard no Power Bi.
+ - Diagnosticar a satisfação dos funcionários;
+ - Aplicar as métricas ESI e eNPS para 
+- Gerar visualizações com Power BI;
+
 ## Metodologia
+
 Para caracterizar os funcionários segmentei a coluna idade em intervalos.
 ```
 SELECT *,
