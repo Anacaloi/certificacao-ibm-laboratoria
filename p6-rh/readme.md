@@ -48,11 +48,12 @@ Por fim, o Employee Net Promoter Score é obtido através da diferença entre o 
 
 No Índice de Satisfação dos Colaboradores (ESI) o colaborador atribui notas também de 0 a 10 spbre sua relação como local de trabalho. O indice é calculado da seguinte maneira:
 - ESI = (média das 3 satisfações – 1) ÷ 9<br>
+
 O resultado poderia ser considerado um pouco acima da média, considerando 0% o pior desempenho possível e 100% o melhor. Novamente, durante a pesquisa utilizada na análise foram atribuidas notas de apenas 1 a 4, então durante o calculo foram guardadas as devidas proporções.
 
 
 ## Visualização
-Para essa 
+Para a visualização da análise escolhi 3 painéis: um primeiro com a visão geral dos funcionários, o segundo diagnosticando a satisfação e o terceiro com os insights e conclusões.
 
 ![Página do Dashboard com a Visão Geral dos Funcionários](https://github.com/Anacaloi/certificacao-ibm-laboratoria/blob/main/p6-rh/img/1-visao-geral.png)<br>
 Nível de Educação (1-Sem Graduação, 2-Graduação, 3-Mestrado e 5-Doutorado).
