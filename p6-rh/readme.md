@@ -3,6 +3,9 @@
 
 Neste projeto decidi trabalhar com a base de dados fictícia dos funcionários da IBM. Elaborei uma análise descritiva caracterizando os funcionários e diagnosticando a satisfação com o trabalho, ambiente e relacionamentos. Utilizei métricas como ESI (Employee Satisfaction Index) e eNPS (Employee Net Promoter Score) para complementar minha análise.
 
+
+![Capa da apresentação do projeto](https://github.com/Anacaloi/certificacao-ibm-laboratoria/blob/main/p6-rh/img/capa.png)
+
 ## Objetivos
 - Estruturar uma analise do zero:
   - 1 Fazendo as perguntas de negócios para entender os objetivos e avaliar a situação atual;
@@ -25,13 +28,34 @@ SELECT *,
     WHEN Age BETWEEN 36 AND 50 THEN '3. Entre 36 e 50 anos' 
     ELSE '4. Mais de 50 anos' 
     END AS range_age
-FROM `projeto-6-funcionarios.dataset.1-0-satisfacao_funcionarios` 
+FROM `projeto-6-funcionarios.dataset.satisfacao_funcionarios` 
 ```
+Procurando métricas para complementar minha análise encontrei o eNPS. Esta métrica procura entender a satisfação dos colaboradores, verificando se eles estariam dispostos a recomendar a empresa para terceiros de confiança. Normalmente são atribuídas notas de 0 a 10. Sendo considerados: detratores de 0 a 6, neutros de 7 a 8 e promotores de 9 a 10.
+No entanto como a pesquisa utilizou notas de 1 a 4, os clientes foram categorizados da seguinte forma:
 
+```
+SELECT *,
+ CASE 
+    WHEN JobSatisfaction BETWEEN 0 AND 2 THEN 'Detratores' 
+    WHEN JobSatisfaction = 3 THEN 'Neutros' 
+    WHEN JobSatisfaction = 4 THEN 'Promotores' 
+    ELSE 'Sem Categoria' 
+    END AS eNPS
+FROM `projeto-6-funcionarios.dataset.satisfacao_funcionarios` 
+```
+quanto ao ESI
+Uma das formas de avaliar isso é o índice de satisfação dos colaboradores. Nele, questionamos, em uma escala (0 a 10), sobre a relação do colaborador com o local de trabalho:
+ESI = (média das 3 satisfações – 1) ÷ 9;
+O resultado poderia ser considerado um pouco acima da média, considerando 0% o pior desempenho possível e 100% o melhor.
 
 ## Visualização
+Para essa 
 
+![Página do Dashboard com a Visão Geral dos Funcionários](https://github.com/Anacaloi/certificacao-ibm-laboratoria/blob/main/p6-rh/img/1-visao-geral.png)<br>
+Nível de Educação (1-Sem Graduação, 2-Graduação, 3-Mestrado e 5-Doutorado).
 
+![Página do Dashboard com a Satisfação dos Funcionários](https://github.com/Anacaloi/certificacao-ibm-laboratoria/blob/main/p6-rh/img/2-satisfacao.png)<br>
+![Página de conclusões](https://github.com/Anacaloi/certificacao-ibm-laboratoria/blob/main/p6-rh/img/3-conclusoes.png)<br>
 
  - [Link da Base de Dados](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
  - [Link do Dashboard](https://app.powerbi.com/reportEmbed?reportId=073ab56f-945d-413f-90ed-ad460c31600a&autoAuth=true&ctid=7829281c-161b-472f-871d-d276668eae0e)
