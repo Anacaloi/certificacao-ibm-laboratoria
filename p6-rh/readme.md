@@ -1,8 +1,6 @@
-
-# Projeto 6 - Análise de Satisfação dos Funcionários
+#  Análise de Satisfação dos Funcionários
 
 Neste projeto decidi trabalhar com a base de dados fictícia dos funcionários da IBM. Elaborei uma análise descritiva caracterizando os funcionários e diagnosticando a satisfação com o trabalho, ambiente e relacionamentos. Utilizei métricas como ESI (Employee Satisfaction Index) e eNPS (Employee Net Promoter Score) para complementar minha análise.
-
 
 ![Capa da apresentação do projeto](https://github.com/Anacaloi/certificacao-ibm-laboratoria/blob/main/p6-rh/img/capa.png)
 
@@ -18,8 +16,9 @@ Neste projeto decidi trabalhar com a base de dados fictícia dos funcionários d
 - Gerar visualizações com Power BI;
 
 ## Metodologia
+Durante a análise exploratória não foram identificados outliers nem maiores inconsistências nos registros que necessitaram de limpeza.
+Para caracterizar os funcionários segmentei a coluna idade em intervalos utilizando a query:
 
-Para caracterizar os funcionários segmentei a coluna idade em intervalos.
 ```
 SELECT *,
  CASE 
@@ -30,7 +29,9 @@ SELECT *,
     END AS range_age
 FROM `projeto-6-funcionarios.dataset.satisfacao_funcionarios` 
 ```
-Procurando métricas para complementar minha análise encontrei o eNPS. Esta métrica procura entender a satisfação dos colaboradores, verificando se eles estariam dispostos a recomendar a empresa para terceiros de confiança. Normalmente são atribuídas notas de 0 a 10. Sendo considerados: detratores de 0 a 6, neutros de 7 a 8 e promotores de 9 a 10.
+
+Procurando métricas para complementar minha análise encontrei o eNPS. Esta métrica procura entender a satisfação dos colaboradores, verificando se eles estariam dispostos a recomendar a empresa para terceiros de confiança. Normalmente são atribuídas notas de 0 a 10. Sendo considerados: detratores de 0 a 6, neutros de 7 a 8 e promotores de 9 a 10. 
+
 No entanto como a pesquisa utilizou notas de 1 a 4, os clientes foram categorizados da seguinte forma:
 
 ```
@@ -43,10 +44,12 @@ SELECT *,
     END AS eNPS
 FROM `projeto-6-funcionarios.dataset.satisfacao_funcionarios` 
 ```
-quanto ao ESI
-Uma das formas de avaliar isso é o índice de satisfação dos colaboradores. Nele, questionamos, em uma escala (0 a 10), sobre a relação do colaborador com o local de trabalho:
-ESI = (média das 3 satisfações – 1) ÷ 9;
-O resultado poderia ser considerado um pouco acima da média, considerando 0% o pior desempenho possível e 100% o melhor.
+Por fim, o Employee Net Promoter Score é obtido através da diferença entre o percentual de promotores e detratores.Nas avaliações do eNPS, um resultado acima de 70% costuma ser considerado bom ou muito bom.<br>
+
+No Índice de Satisfação dos Colaboradores (ESI) o colaborador atribui notas também de 0 a 10 spbre sua relação como local de trabalho. O indice é calculado da seguinte maneira:
+- ESI = (média das 3 satisfações – 1) ÷ 9<br>
+O resultado poderia ser considerado um pouco acima da média, considerando 0% o pior desempenho possível e 100% o melhor. Novamente, durante a pesquisa utilizada na análise foram atribuidas notas de apenas 1 a 4, então durante o calculo foram guardadas as devidas proporções.
+
 
 ## Visualização
 Para essa 
