@@ -5,7 +5,10 @@ Neste projeto decidi trabalhar com a base de dados fictícia dos funcionários d
 
 ![Capa da apresentação do projeto](https://github.com/Anacaloi/certificacao-ibm-laboratoria/blob/main/p6-rh/img/capa.png)
 
+
  - [Link do Dashboard](https://app.powerbi.com/reportEmbed?reportId=073ab56f-945d-413f-90ed-ad460c31600a&autoAuth=true&ctid=7829281c-161b-472f-871d-d276668eae0e)
+
+
 ## Objetivos
 - Estruturar uma analise do zero:
   - 1 Fazendo as perguntas de negócios para entender os objetivos e avaliar a situação atual;
@@ -18,6 +21,43 @@ Neste projeto decidi trabalhar com a base de dados fictícia dos funcionários d
 - Gerar visualizações com Power BI;
 
 ## Metodologia
+
+### Variáveis
+- Age: Idade dos funcionários de 18 a 60 anos;
+- Attrition: 
+- DailyRate
+- Department
+- DistanceFromHome
+- Education
+- EducationField
+- EmployeeCount
+- EmployeeNumber
+- EnvironmentSatisfaction
+- Gender
+- HourlyRate
+- JobInvolvement
+- JobLevel
+- JobRole
+- JobSatisfaction
+- MaritalStatus
+- MonthlyIncome
+- MonthlyRate
+- NumCompaniesWorked
+- Over18
+- OverTime
+- PercentSalaryHike
+- PerformanceRating
+- RelationshipSatisfaction
+- StandardHours
+- StockOptionLevel
+- TotalWorkingYears
+- TrainingTimesLastYear
+- WorkLifeBalance
+- YearsAtCompany
+- YearsInCurrentRole
+- YearsSinceLastPromotion
+- YearsWithCurrManager
+
 Durante a análise exploratória não foram identificados outliers nem maiores inconsistências nos registros que necessitaram de limpeza.
 Para caracterizar os funcionários segmentei a coluna idade em intervalos utilizando a query:
 
