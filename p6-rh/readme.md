@@ -22,42 +22,6 @@ Neste projeto decidi trabalhar com a base de dados fictícia dos funcionários d
 
 ## Metodologia
 
-### Variáveis
-- Age: Idade dos funcionários de 18 a 60 anos;
-- Attrition: 
-- DailyRate
-- Department
-- DistanceFromHome
-- Education
-- EducationField
-- EmployeeCount
-- EmployeeNumber
-- EnvironmentSatisfaction
-- Gender
-- HourlyRate
-- JobInvolvement
-- JobLevel
-- JobRole
-- JobSatisfaction
-- MaritalStatus
-- MonthlyIncome
-- MonthlyRate
-- NumCompaniesWorked
-- Over18
-- OverTime
-- PercentSalaryHike
-- PerformanceRating
-- RelationshipSatisfaction
-- StandardHours
-- StockOptionLevel
-- TotalWorkingYears
-- TrainingTimesLastYear
-- WorkLifeBalance
-- YearsAtCompany
-- YearsInCurrentRole
-- YearsSinceLastPromotion
-- YearsWithCurrManager
-
 Durante a análise exploratória não foram identificados outliers nem maiores inconsistências nos registros que necessitaram de limpeza.
 Para caracterizar os funcionários segmentei a coluna idade em intervalos utilizando a query:
 
