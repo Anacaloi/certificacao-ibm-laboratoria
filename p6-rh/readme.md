@@ -61,10 +61,17 @@ O resultado poderia ser considerado um pouco acima da média, considerando 0% o 
 ## Visualização
 Para a visualização da análise escolhi 3 painéis: um primeiro com a visão geral dos funcionários, o segundo diagnosticando a satisfação e o terceiro com os insights e conclusões.
 
-![Página do Dashboard com a Visão Geral dos Funcionários](https://github.com/Anacaloi/certificacao-ibm-laboratoria/blob/main/p6-rh/img/1-visao-geral.png)<br>
-Nível de Educação (1-Sem Graduação, 2-Graduação, 3-Mestrado e 5-Doutorado).
+![Página do Dashboard com a Visão Geral dos Funcionários](https://github.com/Anacaloi/certificacao-ibm-laboratoria/blob/main/p6-rh/img/1-visao-geral.png)
 
-![Página do Dashboard com a Satisfação dos Funcionários](https://github.com/Anacaloi/certificacao-ibm-laboratoria/blob/main/p6-rh/img/2-satisfacao.png)<br>
+- Os 3 cargos com maior número de funcionários são respectivamente Executivo de Venda (326), Cientista Pesquisador (292) e Tecnico de Laboratório;
+- Homens correnpondem a 60% do quadro de funcionarios, são maioria em todos os departamentos;
+- Quanto maior o nível de Educação (1-Sem Graduação, 2-Graduação, 3-Mestrado e 5-Doutorado) maior a média salarial;
+- Quanto a distribuição de salário por gênero é bem equilibrada exceto nos cargos de gerente e diretor de pesquisa.
+
+
+![Página do Dashboard com a Satisfação dos Funcionários](https://github.com/Anacaloi/certificacao-ibm-laboratoria/blob/main/p6-rh/img/2-satisfacao.png)
+- Numa escala de 1 a 4 a média de satisfação 
+
 ![Página de conclusões](https://github.com/Anacaloi/certificacao-ibm-laboratoria/blob/main/p6-rh/img/3-conclusoes.png)<br>
 
 
