@@ -1,9 +1,11 @@
 #  Análise de Satisfação dos Funcionários
 
 Neste projeto decidi trabalhar com a base de dados fictícia dos funcionários da IBM. Elaborei uma análise descritiva caracterizando os funcionários e diagnosticando a satisfação com o trabalho, ambiente e relacionamentos. Utilizei métricas como ESI (Employee Satisfaction Index) e eNPS (Employee Net Promoter Score) para complementar minha análise.
+ - [Link da Base de Dados](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 
 ![Capa da apresentação do projeto](https://github.com/Anacaloi/certificacao-ibm-laboratoria/blob/main/p6-rh/img/capa.png)
 
+ - [Link do Dashboard](https://app.powerbi.com/reportEmbed?reportId=073ab56f-945d-413f-90ed-ad460c31600a&autoAuth=true&ctid=7829281c-161b-472f-871d-d276668eae0e)
 ## Objetivos
 - Estruturar uma analise do zero:
   - 1 Fazendo as perguntas de negócios para entender os objetivos e avaliar a situação atual;
@@ -61,6 +63,6 @@ Nível de Educação (1-Sem Graduação, 2-Graduação, 3-Mestrado e 5-Doutorado
 ![Página do Dashboard com a Satisfação dos Funcionários](https://github.com/Anacaloi/certificacao-ibm-laboratoria/blob/main/p6-rh/img/2-satisfacao.png)<br>
 ![Página de conclusões](https://github.com/Anacaloi/certificacao-ibm-laboratoria/blob/main/p6-rh/img/3-conclusoes.png)<br>
 
- - [Link da Base de Dados](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
+
  - [Link do Dashboard](https://app.powerbi.com/reportEmbed?reportId=073ab56f-945d-413f-90ed-ad460c31600a&autoAuth=true&ctid=7829281c-161b-472f-871d-d276668eae0e)
 
