@@ -74,7 +74,7 @@ Para a visualização da análise escolhi 3 painéis: um primeiro com a visão g
 - Apesar da média de satisfação e ESI com valores razoaveis podemos notar que uma fatia considerável atribuiu notas de 1 a 2 à satisfação o eNPS está em apenas 6,05% enquanto o ideal seria superior a 70%;
 
 ![Página de conclusões](https://github.com/Anacaloi/certificacao-ibm-laboratoria/blob/main/p6-rh/img/3-conclusoes.png)
-- 
+- Em todos os cargos os funcionários neutros, de acordo com a metodologia eNPS, são maioria.
 
 
  - [Link do Dashboard](https://app.powerbi.com/reportEmbed?reportId=073ab56f-945d-413f-90ed-ad460c31600a&autoAuth=true&ctid=7829281c-161b-472f-871d-d276668eae0e)
