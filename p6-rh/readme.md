@@ -75,6 +75,7 @@ Para a visualização da análise escolhi 3 painéis: um primeiro com a visão g
 
 ![Página de conclusões](https://github.com/Anacaloi/certificacao-ibm-laboratoria/blob/main/p6-rh/img/3-conclusoes.png)
 - Em todos os cargos os funcionários neutros, de acordo com a metodologia eNPS, são maioria.
+- O atrito é uma possivel causa de insatisfação uma nova pesquisa detalhando tambénm os motivos pode trazer mais insights.
 
 
  - [Link do Dashboard](https://app.powerbi.com/reportEmbed?reportId=073ab56f-945d-413f-90ed-ad460c31600a&autoAuth=true&ctid=7829281c-161b-472f-871d-d276668eae0e)
