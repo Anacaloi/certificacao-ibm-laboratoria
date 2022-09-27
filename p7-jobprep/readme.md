@@ -41,12 +41,12 @@ WHERE  tripduration > 0
 ## Visualização
 Escolha de visualização
 
-![Métricas de uso em um dia]()
+![Métricas de uso em um dia](https://github.com/Anacaloi/certificacao-ibm-laboratoria/blob/main/p7-jobprep/img/p1.jpg)
 
 -viagens em um dia
 
 
-![Métricas Históricas]()
+![Métricas Históricas](https://github.com/Anacaloi/certificacao-ibm-laboratoria/blob/main/p7-jobprep/img/p2.jpg)
 - Total de viagens
 
 
