@@ -15,7 +15,7 @@ Neste projeto decidi trabalhar com a base de dados fictícia dos funcionários d
   - 2 Entendendo a base e o que os registros significam;
   - 3 Fazendo a limpeza e preparação dos dados;
   - 4 Análise dos dados de acordo com as métricas escolhidas;
-  - 5 Comunicar as descobertas através de um Dashboard no Power Bi.
+  - 5 Comunicar as descobertas através de um Dashboard no Power BI.
  - Diagnosticar a satisfação dos funcionários;
  - Aplicar as métricas ESI e eNPS para enriquecer as conclusões;
 - Gerar visualizações com Power BI;
