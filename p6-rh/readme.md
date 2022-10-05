@@ -17,7 +17,7 @@ Neste projeto decidi trabalhar com a base de dados fictícia dos funcionários d
   - 4 Análise dos dados de acordo com as métricas escolhidas;
   - 5 Comunicar as descobertas através de um Dashboard no Power Bi.
  - Diagnosticar a satisfação dos funcionários;
- - Aplicar as métricas ESI e eNPS para 
+ - Aplicar as métricas ESI e eNPS para enriquecer as conclusões;
 - Gerar visualizações com Power BI;
 
 ## Metodologia
