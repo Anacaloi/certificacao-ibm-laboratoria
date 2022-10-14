@@ -1,7 +1,7 @@
 
 # Análise de Churn de uma Empresa de Telecomunicações
 
-Neste projetos foram analisados dados históricos de uma empresa de telecomunicações. Trabalho desenvolvido em Agosto de 2022 durante a Certificação em Análise de Dados - IBM|Laboratória
+concluiu um estudo de engenharia de telecomunicações e especialização em redes, e que ao longo do tempo obteve um alto nível de conhecimento e uma grande experiência na área de serviços de telefonia móvel, redes e cabeamento estruturado. Esta empresa decidiu iniciar sua própria empresa chamada TELCO cujas filiais estão localizadas no estado da Califórnia - Estados Unidos em 1106 cidades. No entanto, o mercado de telecomunicações vem crescendo paralelamente ao aumento de múltiplas empresas que oferecem serviços de rede e cabeamento estruturado a preços competitivos. Sebastian, percebendo que o mercado é competitivo, considera uma boa opção realizar um estudo de mercado que envolva uma análise de satisfação do cliente, abandono e perfil para posteriormente tomar estratégias de negócios que permitam melhorar o relacionamento cliente-empresa, para o qual contratou um consultor para apoiá-lo nesta análise.
 
 ![Capa da apresentação do projeto](https://github.com/Anacaloi/certificacao-ibm-laboratoria/blob/main/p5-telecomunicacoes/img/Capa.png)
 
@@ -9,9 +9,9 @@ Neste projetos foram analisados dados históricos de uma empresa de telecomunica
  - [Link da Base de Dados](https://www.kaggle.com/datasets/datacertlaboratoria/projeto-5)
  
 ## Objetivos
-Consultas SQL e vizualizações no power BI
-Análise de riscos
-
+- Consultas SQL e vizualizações no power BI
+- Análise de riscos
+- Extrair informações relevantes que possam subsidiar a tomada de decisões de negócios
 ## Metodologia
 
 
