@@ -3,7 +3,7 @@
 
 Neste projetos foram analisados dados históricos de uma empresa de telecomunicações. Trabalho desenvolvido em Agosto de 2022 durante a Certificação em Análise de Dados - IBM|Laboratória
 
-![Capa da apresentação do projeto](https://github.com/Anacaloi/certificacao-ibm-laboratoria/blob/main/p5-telecomunicacoes/img/capa.png)
+![Capa da apresentação do projeto](https://github.com/Anacaloi/certificacao-ibm-laboratoria/blob/main/p5-telecomunicacoes/img/Capa.png)
 
  - [Link do Dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiNWJjNjM3ZTgtZjE1OC00NGY2LTk1YTMtMTQ5ZjA1ZTg5MDRjIiwidCI6Ijc4MjkyODFjLTE2MWItNDcyZi04NzFkLWQyNzY2NjhlYWUwZSJ9&pageName=ReportSection)
  - [Link da Base de Dados](https://www.kaggle.com/datasets/datacertlaboratoria/projeto-5)
@@ -17,7 +17,15 @@ Análise de riscos
 
 ## Visualização
 
-![Dashboard Screenshot](https://github.com/Anacaloi/certificacao-ibm-laboratoria/blob/main/p5-telecomunicacoes/img/Capa.png)
+![Dashboard Caracterização dos Clientes](https://github.com/Anacaloi/certificacao-ibm-laboratoria/blob/main/p5-telecomunicacoes/img/1.jpg)
+
+
+![Dashboard Análise do Número de Referidos](https://github.com/Anacaloi/certificacao-ibm-laboratoria/blob/main/p5-telecomunicacoes/img/3.jpg)
+
+![Dashboard Caracterização dos Contratos](https://github.com/Anacaloi/certificacao-ibm-laboratoria/blob/main/p5-telecomunicacoes/img/2.jpg)
+
+
+![Dashboard Clientes de Alto Valor](https://github.com/Anacaloi/certificacao-ibm-laboratoria/blob/main/p5-telecomunicacoes/img/4.jpg)
 
  - [Link do Dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiNWJjNjM3ZTgtZjE1OC00NGY2LTk1YTMtMTQ5ZjA1ZTg5MDRjIiwidCI6Ijc4MjkyODFjLTE2MWItNDcyZi04NzFkLWQyNzY2NjhlYWUwZSJ9&pageName=ReportSection)
 
