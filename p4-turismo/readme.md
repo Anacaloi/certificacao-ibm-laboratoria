@@ -18,7 +18,7 @@ Neste projetos foram analisados dados históricos de uma rede hoteleira. Trabalh
 ![Dashboard p1](https://github.com/Anacaloi/certificacao-ibm-laboratoria/blob/main/p4-turismo/img/2.jpg)
 
 
-![Dashboard p2](https://github.com/Anacaloi/certificacao-ibm-laboratoria/blob/main/p4-turismo/img/3.jpg)
+
 
 
 ![Dashboard p3](https://github.com/Anacaloi/certificacao-ibm-laboratoria/blob/main/p4-turismo/img/4.jpg)
