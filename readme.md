@@ -27,6 +27,11 @@ Neste projeto decidi trabalhar com a base de dados fictícia dos funcionários d
  - [Link do Repositório](https://github.com/Anacaloi/certificacao-ibm-laboratoria/tree/main/p6-rh)
 
 ## Projeto 5 - Empresa de Telecomunicações
+Neste case, uma empresa fictícia concluiu um estudo de engenharia de telecomunicações e especialização em redes, e que ao longo do tempo obteve um alto nível de conhecimento e uma grande experiência na área de serviços de telefonia móvel, redes e cabeamento estruturado. Esta empresa decidiu iniciar sua própria empresa chamada TELCO cujas filiais estão localizadas no estado da Califórnia - Estados Unidos em 1106 cidades. No entanto, o mercado de telecomunicações vem crescendo paralelamente ao aumento de múltiplas empresas que oferecem serviços de rede e cabeamento estruturado a preços competitivos. Percebendo que o mercado é competitivo, considera uma boa opção realizar um estudo de mercado que envolva uma análise de satisfação do cliente, abandono e perfil para posteriormente tomar estratégias de negócios que permitam melhorar o relacionamento cliente-empresa.
+#### Principais Objetivos
+- Analisar a satisfação e perfil dos clientes
+- Análisar o abandono de clientes
+- Extrair informações relevantes que possam subsidiar a tomada de decisões de negócios
  - [Link do Repositório](https://github.com/Anacaloi/certificacao-ibm-laboratoria/tree/main/p5-telecomunicacoes)
 
 ## Projeto 4 - Cancelamento de Hotéis
