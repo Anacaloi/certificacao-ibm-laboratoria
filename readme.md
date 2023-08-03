@@ -6,10 +6,6 @@ Certificação oferecida pela IBM e Laboratória. Este programa de aprendizado b
 
 
 
-## Projeto 7 - CitiBike
-Análise exploratória dos dados de viagens e rotas da empresa CitiBike.
- - Link do Repositório: Em Breve!
-
 ## Projeto 6 - Satisfação de Funcionários
 Neste projeto decidi trabalhar com a base de dados fictícia dos funcionários da IBM. Elaborei uma análise descritiva caracterizando os funcionários e diagnosticando a satisfação com o trabalho, ambiente e relacionamentos. Utilizei métricas como ESI (Employee Satisfaction Index) e eNPS (Employee Net Promoter Score) para complementar minha análise.
 #### Principais Objetivos
